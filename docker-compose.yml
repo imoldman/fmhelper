@@ -1,0 +1,12 @@
+nginx:
+  image: nginx:1.11
+  container_name: fm-nginx
+  ports:
+    - "80:80"
+    - "443:443"
+  volumes:
+    # app
+    - ./web:/usr/share/nginx/html
+    # nginx configs
+    - ./docker/nginx/nginx.conf:/etc/nginx/nginx.conf:ro
+    - ./docker/nginx/conf.d/:/etc/nginx/conf.d/:ro
