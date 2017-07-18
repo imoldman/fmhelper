@@ -9,7 +9,6 @@
         <itunes:author>李老汉, 晓风</itunes:author>
         <itunes:subtitle></itunes:subtitle>
         <itunes:summary>编等编译，边等边议</itunes:summary>
-        <description>编等编译，边等边议</description>
         <itunes:image href="http://fdfs.xmcdn.com/group28/M07/49/90/wKgJXFloGaXA7-VzAAzur52C9qc291.png"/>
         <itunes:category text="Technology" />
         <itunes:explicit>no</itunes:explicit>
@@ -22,11 +21,11 @@
             <pubDate>Thu, 13 Jul 2017 15:17:49 GMT</pubDate>
             <itunes:duration>35:52</itunes:duration>
             <link>http://www.ximalaya.com/75325738/sound/43784295</link>
-            <description>
+            <itunes:summary>
                 <![CDATA[
 <p style="font-size:16px;color:#333333;line-height:30px;font-family:Helvetica,Arial,sans-serif;font-weight:normal;text-align:left;hyphens:auto" lang="en" data-flag="normal">这一期我们请了一位十年 QA 工作经验的『业界大姐大（误）』小姐姐来聊了下测试工程师到底是怎么回事。</p><span><br /></span><p style="font-size:16px;color:#333333;line-height:30px;font-family:Helvetica, Arial, sans-serif;font-weight:normal;text-align:left;hyphens:auto" data-flag="normal" lang="en">如果你想尝试 <span>QA </span>工作<span>，</span>或者你组建一个团队想了解该招什么样的 <span>QA </span>才不会后悔<span>，</span>亦或者你就是想知道自己玩的游戏用的 APP 是怎么样经过 <span>QA </span>小姐姐的亲手调教<span>，</span>才上架到了你的手机上<span>，</span>那么你会非常期待这一期的内容<span>，</span>因为真的很 <span>Hard Core！</span></p><span><br /></span><p style="font-size:16px;color:#333333;line-height:30px;font-family:Helvetica,Arial,sans-serif;font-weight:normal;text-align:left;hyphens:auto" data-flag="normal" lang="en"><span>QA </span>工作十年宝贵精华尽在本期『业界编译』。</p><span><br /></span>
                 ]]>
-            </description>
+            </itunes:summary>
             <itunes:order>1</itunes:order>
         </item>
         <item>
@@ -38,11 +37,11 @@
             <pubDate>Thu, 29 Jun 2017 15:38:10 GMT</pubDate>
             <itunes:duration>1:00:11</itunes:duration>
             <link>http://www.ximalaya.com/75325738/sound/42297597</link>
-            <description>
+            <itunes:summary>
                 <![CDATA[
 <p style="font-size:16px;color:#333333;line-height:30px;font-family:Helvetica,Arial,sans-serif;font-weight:normal;text-align:left;hyphens:auto" lang="en" data-flag="normal">本期三位主播丝毫没有受到最近一期开天窗的影响，依然热情饱满地吐槽了本次 WWDC 的各种发布内容。可以看出大家对苹果公司真的充满了浓浓的爱意（伪）。</p><span><br /></span><p style="font-size:16px;color:#333333;line-height:30px;font-family:Helvetica,Arial,sans-serif;font-weight:normal;text-align:left;hyphens:auto" data-flag="normal" lang="en">我们从硬件聊到软件<span>，</span>从<span> ARKit </span>聊到<span> CoreML，</span>从苹果何处激进勇猛聊到了何处小心谨慎<span>，</span>最后又常规黑了一下<span> Apple Watch</span>。但是并且直到录完我们都没有意识到我们忘了聊<span> tvOS</span>。</p><span><br /></span><p style="font-size:16px;color:#333333;line-height:30px;font-family:Helvetica,Arial,sans-serif;font-weight:normal;text-align:left;hyphens:auto" data-flag="normal" lang="en">不管怎样<span>，WWDC17 </span>的重要发布<span>，</span>苹果公司今年的战略方向<span>，</span>尽在本期『业界编译』。</p><hr style="margin: 20px 0px;height: 1px;background: #ddd;border-style: solid;border-style: solid;border-style: solid;border-style: solid;border: 0px;display: inline-block;width: 100%" /><p style="font-size:16px;color:#333333;line-height:30px;font-family:Helvetica, Arial, sans-serif;font-weight:normal;hyphens:auto" data-flag="normal" lang="en">节目中提到的《ELK》 - 荣获本年设计奖作品（之一）：<a href="https://itunes.apple.com/us/app/elk-travel-currency-converter/id1189748820?mt=8">https://itunes.apple.com/us/app/elk-travel-currency-converter/id1189748820?mt=8</a></p>
                 ]]>
-            </description>
+            </itunes:summary>
             <itunes:order>2</itunes:order>
         </item>
         <item>
@@ -55,11 +54,11 @@
             <pubDate>Thu, 01 Jun 2017 13:05:27 GMT</pubDate>
             <itunes:duration>43:03</itunes:duration>
             <link>http://www.ximalaya.com/75325738/sound/39504840</link>
-            <description>
+            <itunes:summary>
                 <![CDATA[
 <p style="font-size:16px;color:#333333;line-height:30px;font-family:Helvetica,Arial,sans-serif;font-weight:normal;text-align:left;hyphens:auto" lang="en" data-flag="normal">WWDC即苹果全球开发者大会，能参加WWDC的都是iOS开发届的大佬。而这一期我们就请来一位这样的大佬跟大家聊聊WWDC。WWDC17即将来临，我们做了一些毫不负责的推测，以及做了一些充满爱意的吐槽。</p><span><br></span><p style="font-size:16px;color:#333333;line-height:30px;font-family:Helvetica,Arial,sans-serif;font-weight:normal;text-align:left;hyphens:auto" data-flag="normal" lang="en">或许你是苹果的忠实用户<span>，</span>或许你是果黑<span>，</span>或者你只是单纯的智能手机使用者<span>，</span>但你大概都不想错过这一期。因为<span>，</span>听资深<span>iOS</span>开发者聊<span>WWDC</span>的机会真的很难得。</p><span><br></span><p style="font-size:16px;color:#333333;line-height:30px;font-family:Helvetica,Arial,sans-serif;font-weight:normal;text-align:left;hyphens:auto" lang="en" data-flag="normal">WWDC的点点滴滴就在本期 『业界编译』。</p><span><br><br></span><p style="font-size:16px;color:#333333;line-height:30px;font-family:Helvetica, Arial, sans-serif;font-weight:normal;text-align:left;hyphens:auto" lang="en" data-flag="normal">片头取自乔布斯在 1997 年 WWDC 上的发言，大意如下：</p><blockquote style="margin: 10px 0px; border-left: 5px solid rgb(232, 232, 232); padding-left: 15px; font-size: 14px; color: rgb(102, 102, 102)"><p style="font-size:14px;color:#666666" lang="en" data-flag="bk-span">谢谢你们的欢迎，我十分感激。</p><p style="font-size:14px;color:#666666" lang="en" data-flag="bk-span">我今天早上是来聊天的，我知道你们这一周都要听各种演讲，所以我并不想再搞一次演讲。</p><p style="font-size:14px;color:#666666" lang="en" data-flag="bk-span">我只是想聊天，聊你们想聊的话题，我对很多事情都有看法。</p><p style="font-size:14px;color:#666666" lang="en" data-flag="bk-span">我先抛砖引玉。</p><p style="font-size:14px;color:#666666" lang="en" data-flag="bk-span">我对现在公司的目标非常高兴，公司有一些非常有才的人，你们这周会遇到，他们正在运营苹果的重要部门。</p><p style="font-size:14px;color:#666666" lang="en" data-flag="bk-span">他们正在朝着一个清晰的战略目标稳步前进，这个战略目标就是一个核心：制造高质量的产品。</p><p style="font-size:14px;color:#666666" lang="en" data-flag="bk-span">我认为市场上对高质量的产品有着巨大的需求，现在有着巨大需求空缺我们可以去满足，而且需要你们的帮助。</p></blockquote><hr style="margin: 20px 0px;height: 1px;background: #ddd;border-style: solid;border-style: solid;border: 0px;display: inline-block;width: 100%"><span><br></span><p style="font-size:16px;color:#333333;line-height:30px;font-family:Helvetica, Arial, sans-serif;font-weight:normal;text-align:left;hyphens:auto" lang="en" data-flag="normal">勘误：</p><p style="font-size:16px;color:#333333;line-height:30px;font-family:Helvetica, Arial, sans-serif;font-weight:normal;text-align:left;hyphens:auto" lang="en" data-flag="normal">1. Phone Extension 应为 Call Extension</p><p style="font-size:16px;color:#333333;line-height:30px;font-family:Helvetica, Arial, sans-serif;font-weight:normal;text-align:left;hyphens:auto" lang="en" data-flag="normal">2. SiriKit 支持的场景是7个不是6个</p><p style="font-size:16px;color:#333333;line-height:30px;font-family:Helvetica, Arial, sans-serif;font-weight:normal;text-align:left;hyphens:auto" lang="en" data-flag="normal">3. 单手模式是点击两下，Workflow 收购是今年。我一定是个假 iOS 开发工程师。</p>
                 ]]>
-            </description>
+            </itunes:summary>
             <itunes:order>3</itunes:order>
         </item>
         <item>
@@ -72,11 +71,11 @@
             <pubDate>Mon, 15 May 2017 23:50:14 GMT</pubDate>
             <itunes:duration>57:28</itunes:duration>
             <link>http://www.ximalaya.com/75325738/sound/38078612</link>
-            <description>
+            <itunes:summary>
                 <![CDATA[
 <p style="font-size:16px;color:#333333;line-height:30px;font-family:Helvetica,Arial,sans-serif;font-weight:normal;text-align:left;hyphens:auto" lang="en" data-flag="normal">“模仿游戏”这部14年的电影中，福尔摩斯（误）演绎了图灵，破解了德军的加密机，而战后图灵的人生尾声又让人唏嘘不已。这部电影让很多人从此知道了图灵这个名字。然而其实了解点计算机历史的人都会知道图灵这个名字，他早已成为传奇，他奠定了计算理论和人工智能理论的基础，并且大名鼎鼎的图灵测试便是由他创造。</p><span><br></span><p style="font-size:16px;color:#333333;line-height:30px;font-family:Helvetica,Arial,sans-serif;font-weight:normal;text-align:left;hyphens:auto" data-flag="normal" lang="en">而了解点二战史的人也都有会知道德军加密机<span>——</span>恩尼格码的赫赫威名<span>，</span>也会知道二战进程甚至因为这台加密机的破解而转折。</p><span><br></span><p style="font-size:16px;color:#333333;line-height:30px;font-family:Helvetica,Arial,sans-serif;font-weight:normal;text-align:left;hyphens:auto" data-flag="normal" lang="en">那么这两个历史上的巨大人与物<span>，</span>他们之间发生了怎么样的故事呢<span>？</span>作为计算机之父的图灵是怎样破解这台加密机<span>？</span></p><span><br></span><p style="font-size:16px;color:#333333;line-height:30px;font-family:Helvetica,Arial,sans-serif;font-weight:normal;text-align:left;hyphens:auto" data-flag="normal" lang="en">这一传奇历史故事的解密过程尽在本期<span>『</span>编译历史』。</p><hr style="margin: 20px 0px;height: 1px;background: #ddd;border-style: solid;border-style: solid;border: 0px;display: inline-block;width: 100%"><p style="font-size:16px;color:#333333;line-height:30px;font-family:Helvetica,Arial,sans-serif;font-weight:normal;text-align:left;hyphens:auto" lang="en">【片头小文】《阴符》 (<span>http://ctext.org/liu-tao/yin-fu/zhs)</span>&nbsp;</p><p style="font-size:16px;color:#333333;line-height:30px;word-break:break-all;font-family:Helvetica, Arial, sans-serif;font-weight:normal" data-flag="normal"><span>武王问太公曰：“引兵深入诸侯之地，三军卒有缓急，或利或害。吾将以近通远，从中应外，以给三军之用。为之奈何？”</span><br><span>太公曰：“主与将，有阴符，凡八等。</span><br><span>有大胜克敌之符，长一尺。</span><br><span>破军擒将之符，长九寸。</span><br><span>降城得邑之符，长八寸。</span><br><span>却敌报远之符，长七寸。</span><br><span>警众坚守之符，长六寸。</span><br><span>请粮益兵之符，长五寸。</span><br><span>败军亡将之符，长四寸。</span><br><span>失利亡士之符，长三寸。</span><br><span>诸奉使行符、稽留，若符事闻泄，告者皆诛之。八符者，主将秘闻，所以阴通言语，不泄中外相知之术。敌虽圣智，莫之能识。”</span><br><span>武王曰：“善哉。”</span></p><span><br><br></span><p style="font-size:16px;color:#333333;line-height:30px;word-break:break-all;font-family:Helvetica, Arial, sans-serif;font-weight:normal" data-flag="normal"><br>模拟游戏: <a href="https://movie.douban.com/subject/10463953/">https://movie.douban.com/subject/10463953/</a></p>
                 ]]>
-            </description>
+            </itunes:summary>
             <itunes:order>4</itunes:order>
         </item>
     </channel>
