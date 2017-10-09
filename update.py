@@ -23,3 +23,5 @@ def get_full_summary_html_from_web_page(url):
 
     # detect all http(s) to link
     return re.sub('http[s]?://(?:[^ ()])+', '<a href="\g<0>">\g<0></a>', result)
+
+print(get_full_summary_html_from_web_page("http://www.ximalaya.com/75325738/sound/53762268/"))
